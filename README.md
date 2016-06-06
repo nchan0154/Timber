@@ -1,3 +1,8 @@
+Fork Notes
+=====================
+This is a fork of the Shopify Timber theme with all the color settings removed and gulp/cssimport set up in a way so that you can build your Shopify theme using SCSS imports. All you have to do is install your node modules and get gulping!
+
+
 Shopify Timber [![Circle CI](https://circleci.com/gh/Shopify/Timber.svg?style=svg)](https://circleci.com/gh/Shopify/Timber)
 =====================
 
